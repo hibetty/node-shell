@@ -1,0 +1,26 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "'Week 2 Node shell workshop!'",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hibetty/node-shell.git"
+  },
+  "keywords": [
+    "node",
+    "bash"
+  ],
+  "author": "Sarah Hubschman, Betty Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hibetty/node-shell/issues"
+  },
+  "homepage": "https://github.com/hibetty/node-shell#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
